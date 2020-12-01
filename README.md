@@ -4,7 +4,7 @@
   Shyam Sundar Bhattarai</a> 👨‍💻
 </h1>
 <p align='center'>
-  Fullstack Developer
+   Developer
 </p>
 <p align='center'>
  
